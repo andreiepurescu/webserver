@@ -1,0 +1,7 @@
+name: Webserver
+description: customized webserver based on apache distribution
+version: 1
+category: web
+maintainer: andrei e
+license: free
+projectURL: https://hub.docker.com/r/andreiepurescu/webserver/
